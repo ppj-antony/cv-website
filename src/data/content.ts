@@ -154,19 +154,19 @@ export const content = {
       ] as EducationItem[]
     },
     skills: {
-      title: "Fähigkeiten & Expertisen",
+      title: "FÄHIGKEITEN & EXPERTISEN",
       items: [
         {
-          title: "Digital & E-Commerce",
-          description: "Algolia Search Optimization, Category Management, SEO, Google Analytics, Looker Studio, HTML/CSS, CMS"
+          title: "Business Operations & Strategie",
+          description: "End-to-End-Prozessoptimierung, Proaktive Projektkoordination, Schnittstelle Business & Tech, Workflow-Automatisierung & KI-Tools, Cross-Funktionale Abstimmung"
         },
         {
-          title: "Führung & Strategie",
-          description: "Strategische Führung, Data-Roadmaps & KPI-Frameworks, Projektkoordination, bereichsübergreifende Leitung, Lieferantenmanagement"
+          title: "Digital & E-Commerce",
+          description: "E-Commerce-Management, SEO & Suche-Optimierung (Algolia), Analytics & Reporting (Google Analytics, Looker Studio), CMS & Webtechnologien (HTML/CSS)"
         },
         {
           title: "Daten & Infrastruktur",
-          description: "PostgreSQL, SQL (pgAdmin), Python (Data Science Libraries), Linux Systemadministration, Tableau, Online Datamining"
+          description: "SQL & Datenbankmanagement (PostgreSQL, pgAdmin), Datenanalyse (Python), Business Intelligence (Tableau), Linux-Systeme, Data Mining"
         }
       ] as SkillItem[]
     },
@@ -305,19 +305,19 @@ export const content = {
       ] as EducationItem[]
     },
     skills: {
-      title: "Skills & Expertise",
+      title: "SKILLS & EXPERTISE",
       items: [
         {
-          title: "Digital & E-Commerce",
-          description: "Algolia Search Optimization, Category Management, SEO, Google Analytics, Looker Studio, HTML/CSS, CMS"
+          title: "Business Operations & Strategy",
+          description: "End-to-End Process Optimization, Proactive Project Coordination, Business & Tech Understanding, Workflow Automation & AI Tools, Cross-Functional Alignment"
         },
         {
-          title: "Leadership & Strategy",
-          description: "Strategic Leadership, Data Roadmap & KPI Frameworks, Project Coordination, Cross-Functional Leadership, Supplier Management"
+          title: "Digital & E-Commerce",
+          description: "E-Commerce Management, SEO & Search Optimization (Algolia), Analytics & Reporting (Google Analytics, Looker Studio), CMS & Web Technologies (HTML/CSS)"
         },
         {
           title: "Data & Infrastructure",
-          description: "PostgreSQL, SQL (pgAdmin), Python (Data Science Libraries), Linux Systemadministration, Tableau, Online Datamining"
+          description: "SQL & Database Management (PostgreSQL, pgAdmin), Data Analysis (Python), Business Intelligence (Tableau), Linux Systems, Data Mining"
         }
       ] as SkillItem[]
     },
